@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1534985835 source:c:\users\johannes victor\desktop\3o semestre\estrutura de dados\laboratório\trabalho_1_grafos_joão_victor_lopes_fam\main.cpp
+	<iostream>
+	<Grafo.h>
+
+1534984136 source:c:\users\johannes victor\desktop\3o semestre\estrutura de dados\laboratório\trabalho_1_grafos_joão_victor_lopes_fam\src\aresta.cpp
+	"Aresta.h"
+
+1534985176 c:\users\johannes victor\desktop\3o semestre\estrutura de dados\laboratório\trabalho_1_grafos_joão_victor_lopes_fam\include\aresta.h
+
+1534985803 source:c:\users\johannes victor\desktop\3o semestre\estrutura de dados\laboratório\trabalho_1_grafos_joão_victor_lopes_fam\src\grafo.cpp
+	"Grafo.h"
+	<list>
+
+1534985650 c:\users\johannes victor\desktop\3o semestre\estrutura de dados\laboratório\trabalho_1_grafos_joão_victor_lopes_fam\include\grafo.h
+	<list>
+	"Vertice.h"
+
+1534984562 c:\users\johannes victor\desktop\3o semestre\estrutura de dados\laboratório\trabalho_1_grafos_joão_victor_lopes_fam\include\vertice.h
+	<iostream>
+	<list>
+	"Aresta.h"
+
+1534985365 source:c:\users\johannes victor\desktop\3o semestre\estrutura de dados\laboratório\trabalho_1_grafos_joão_victor_lopes_fam\src\vertice.cpp
+	"Vertice.h"
+	<list>
+
+1535410987 source:c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\main.cpp
+	<iostream>
+	<Grafo.h>
+	<GrafoMatrizAdj.h>
+	<GrafoListaAdj.h>
+	<fstream>
+	<cstdlib>
+
+1535403220 c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\include\grafo.h
+	<list>
+	"Vertice.h"
+
+1535395733 c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\include\vertice.h
+	<iostream>
+	<list>
+	"Aresta.h"
+
+1535394694 c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\include\aresta.h
+
+1534984136 source:c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\src\aresta.cpp
+	"Aresta.h"
+
+1535398126 source:c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\src\grafo.cpp
+	"Grafo.h"
+	<list>
+
+1535395936 source:c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\src\vertice.cpp
+	"Vertice.h"
+	<list>
+
+1535403171 c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\include\grafomatrizadj.h
+	"Grafo.h"
+	<iostream>
+
+1535414080 source:c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\src\grafomatrizadj.cpp
+	"GrafoMatrizAdj.h"
+
+1535400642 source:c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\src\grafolistaadj.cpp
+	"GrafoListaAdj.h"
+	<list>
+
+1535403210 c:\users\johannes victor\desktop\5o semestre\teoria dos grafos\trabalho_1_grafos_joão_victor_lopes_fam\include\grafolistaadj.h
+	<list>
+	"Grafo.h"
+	"Vertice.h"
+
+1535414353 source:c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\src\aresta.cpp
+	"Aresta.h"
+
+1535414353 c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\include\aresta.h
+
+1535414353 source:c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\src\grafolistaadj.cpp
+	"GrafoListaAdj.h"
+	<list>
+
+1535417841 c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\include\grafolistaadj.h
+	<list>
+	"Grafo.h"
+	"Vertice.h"
+
+1535414353 c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\include\grafo.h
+	<list>
+	"Vertice.h"
+
+1535417813 c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\include\vertice.h
+	<iostream>
+	<list>
+	"Aresta.h"
+
+1535414353 source:c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\src\grafomatrizadj.cpp
+	"GrafoMatrizAdj.h"
+
+1535414353 c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\include\grafomatrizadj.h
+	"Grafo.h"
+	<iostream>
+
+1535414353 source:c:\users\eleno\downloads\trabalho_1_grafos-master\trabalho_1_grafos-master\src\vertice.cpp
+	"Vertice.h"
+	<list>
+
